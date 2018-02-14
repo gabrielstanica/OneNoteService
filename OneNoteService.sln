@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerOneNote", "ServerOneNote\ServerOneNote.csproj", "{EF61F31B-11BD-495F-9C3E-58ADF8FC336F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServerConnection", "TestServerConnection\TestServerConnection.csproj", "{CB145C74-BA07-4CC4-8AA2-9F9AA9838D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNoteOCRDll", "OneNoteOCRDll\OneNoteOCRDll.csproj", "{0A01BDA2-3D59-4ED8-9044-A8BBC98CF9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneNoteOCRDllTest", "OneNoteOCRDllTest\OneNoteOCRDllTest.csproj", "{7DCE1C71-C83C-4B1E-85B6-180AB1B48805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF61F31B-11BD-495F-9C3E-58ADF8FC336F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF61F31B-11BD-495F-9C3E-58ADF8FC336F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF61F31B-11BD-495F-9C3E-58ADF8FC336F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF61F31B-11BD-495F-9C3E-58ADF8FC336F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB145C74-BA07-4CC4-8AA2-9F9AA9838D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB145C74-BA07-4CC4-8AA2-9F9AA9838D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB145C74-BA07-4CC4-8AA2-9F9AA9838D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB145C74-BA07-4CC4-8AA2-9F9AA9838D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A01BDA2-3D59-4ED8-9044-A8BBC98CF9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A01BDA2-3D59-4ED8-9044-A8BBC98CF9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A01BDA2-3D59-4ED8-9044-A8BBC98CF9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A01BDA2-3D59-4ED8-9044-A8BBC98CF9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCE1C71-C83C-4B1E-85B6-180AB1B48805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCE1C71-C83C-4B1E-85B6-180AB1B48805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCE1C71-C83C-4B1E-85B6-180AB1B48805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCE1C71-C83C-4B1E-85B6-180AB1B48805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
